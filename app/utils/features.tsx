@@ -20,7 +20,6 @@ export const features = [
   },
   {
     title: "Discord RPC",
-    upcoming: true,
     description:
       "Display your live game status, selected agent, and current map directly on your Discord profile.",
     icon: (

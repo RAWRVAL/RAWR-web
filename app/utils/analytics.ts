@@ -1,6 +1,6 @@
 
 export const handleDownloadClick = () => {
-  window.open("http://cdn.rawencat.tech/rawr_0.1.0_x64_en-US.msi", "_blank");
+  window.open("https://cdn.rawencat.tech/rawr_0.2.0_x64_en-US.msi", "_blank");
 
   fetch("/api/downloadlog", {
     method: "POST",
